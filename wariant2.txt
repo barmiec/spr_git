@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Wersja główna
+=======
+Wersja pierwsza
+>>>>>>> wariant2

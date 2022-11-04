@@ -1,0 +1,9 @@
+cd Documents
+cd Spr_git_Bartosz_Miecznikowski
+touch tekst.txt
+git init
+git add .
+git commit -m "Początek projektu"
+Punkt 6
+4.11.2022
+13:10
